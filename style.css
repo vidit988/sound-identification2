@@ -1,0 +1,29 @@
+.header{
+    background-color:aqua;
+    padding: 20px;
+    font-family: 'Tilt Prism', cursive;
+    color: rgb(46, 104, 154);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.main{
+    background-color: rgba(21, 247, 247, 0.514);
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: aqua;
+    width: 100%;
+    padding: 15px;
+    color: rgb(238, 9, 9);
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+body{
+    background-color: rgba(21, 247, 247, 0.514); 
+    text-transform: capitalize ;
+}
+#start{
+font-size: 20px;
+}
